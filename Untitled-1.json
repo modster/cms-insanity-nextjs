@@ -1,0 +1,2 @@
+    "start": "sanity start",
+    "build": "sanity build",
